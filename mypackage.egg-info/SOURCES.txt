@@ -1,0 +1,8 @@
+setup.py
+mila_dewi/__init__.py
+mila_dewi/guess_number.py
+mila_dewi/weight_conversion.py
+mypackage.egg-info/PKG-INFO
+mypackage.egg-info/SOURCES.txt
+mypackage.egg-info/dependency_links.txt
+mypackage.egg-info/top_level.txt
